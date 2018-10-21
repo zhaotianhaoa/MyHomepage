@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b437aed-af64-43c3-9b84-bacb684af964" name="Default Changelist" comment="" />
+    <list default="true" id="9b437aed-af64-43c3-9b84-bacb684af964" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/beijing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/beijing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg-head.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/bg-head.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg-head2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg-head3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg-head6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg-head7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (10).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (12).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (13).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (14).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (15).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (16).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (17).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (19).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (20).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (22).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (23).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (24).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (25).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (26).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (8).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/timg (9).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/wuhan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/wuhan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,30 +86,45 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="370529317">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="117" />
+          <entry key="html" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="117" />
+          <entry key="HTML" value="110" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+            <state relative-caret-position="243">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3778">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="251">
+              <caret line="156" column="17" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image/timg (17).jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -85,6 +135,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,12 +170,7 @@
           <expand>
             <path>
               <item name="MyHomepage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My homepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomepage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My homepage" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="MyHomepage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,11 +238,12 @@
       <workItem from="1540020617277" duration="4074000" />
       <workItem from="1540046304869" duration="10798000" />
       <workItem from="1540090805816" duration="1859000" />
+      <workItem from="1540112934841" duration="3654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35497000" />
+    <option name="totallyTimeSpent" value="39151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -206,7 +255,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39765102" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39765102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -246,9 +295,7 @@
     <entry file="file://$PROJECT_DIR$/image/timg (12).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/timg (11).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image/timg (11).jpg" />
     <entry file="file://$PROJECT_DIR$/image/timg (10).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -276,9 +323,7 @@
     <entry file="file://$PROJECT_DIR$/image/timg (1).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/timg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image/timg.jpg" />
     <entry file="file://$PROJECT_DIR$/image/timg (26).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -291,35 +336,31 @@
     <entry file="file://$PROJECT_DIR$/image/timg (22).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/timg (21).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image/timg (21).jpg" />
     <entry file="file://$PROJECT_DIR$/image/timg (20).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/image/timg (19).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/timg (18).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image/timg (18).jpg" />
     <entry file="file://$PROJECT_DIR$/js/bg8.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/image/timg (17).jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3778">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="243">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        <state relative-caret-position="251">
+          <caret line="156" column="17" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
         </state>
       </provider>
     </entry>
